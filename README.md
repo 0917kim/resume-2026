@@ -7,4 +7,7 @@
 -  html,css<br>
 
 활용프로그램<br>
--  vscode, figma, github
+-  vscode, figma, github<br>
+
+개요<br>
+- profile, license, project, skills, contact me
