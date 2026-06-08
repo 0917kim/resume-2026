@@ -949,8 +949,10 @@ body {
   }
 
   .skills-contact h2 {
-    text-align: left;
+    text-align: right;
     margin-bottom: 24px;
+    margin-right: 24px;
+    font-size: 30px;
     font-family: "Monoplex kr";
     color: #fff;
   }
